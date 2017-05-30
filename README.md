@@ -7,3 +7,5 @@ Create your To-Do list. Cross out what you've done. Delete old items. Add new ta
 --------------------------------------------------------------------------------------
 
 The project uses HTML, CSS and jQuery.
+
+Get things done here! ---> https://trykpa.github.io/to-do-list-project/
